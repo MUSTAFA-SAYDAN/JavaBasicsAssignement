@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AliEren {
+public class topla {
 
 	public static void main(String[] args) {
 		Scanner mustafaScanner=new Scanner(System.in);
